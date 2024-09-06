@@ -1,4 +1,4 @@
-## update database schema in supabase from local to remote database flow (turborepo nextjs supabase)
+## update database schema in supabase from local to remote database flow (turborepo, nextjs, supabase, prisma)
 
 1. update prisma shcema
 2. generate prisma model types
