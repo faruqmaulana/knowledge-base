@@ -1,1 +1,1 @@
-this repo created hopfully for resolve most common faruq's problems (during development)
+this repo created hopefully for resolve most common faruq's problems (during development)
